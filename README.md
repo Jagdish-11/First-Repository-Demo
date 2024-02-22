@@ -1,2 +1,3 @@
 # First-Repository-Demo
-This is my first repositoru
+This is my first repository
+Aurther:- Jagdish Tembhare
